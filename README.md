@@ -9,7 +9,8 @@ Welcome to the AI-Based Mock Interview System — an intelligent, real-time voic
 
 
 Built using Next.js with TypeScript for a scalable frontend, styled with Tailwind CSS for clean UI/UX, and integrated with Firebase as Backend-as-a-Service, this system also utilizes Firestore (Firebase Database) for real-time data storage and retrieval. The Vapi Voice AI model powers interactive voice-based communication, making the interview experience highly immersive and personalized.
-![image](https://github.com/user-attachments/assets/db950fe1-13de-4064-a5c7-70eccd94bacd)
+![image](https://github.com/user-attachments/assets/e37e5866-c28e-4580-9625-2f8bc728d655)
+
 
 
 # 🧠 Problem Statement
